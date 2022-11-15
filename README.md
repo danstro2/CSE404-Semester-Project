@@ -17,4 +17,4 @@ This project will analyze the census ACSIncome dataset. A model will be trained 
 7. RELP: Relationship
 8. WKHP: Hours worked per week
 9. SEX: Perons Sex
-10.RACP: Race
+10. RACP: Race
